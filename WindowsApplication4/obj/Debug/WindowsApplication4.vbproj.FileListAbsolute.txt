@@ -1,0 +1,39 @@
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.DangNhap.resources
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\win7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\WIN7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\WIN7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Main.resources
+C:\Users\WIN7\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.QuanlySP.resources
+D:\VB code\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\VB code\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\VB code\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\VB code\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.DangNhap.resources
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.QuanlySP.resources
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.Main.resources
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+D:\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.DangNhap.resources
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.QuanlySP.resources
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.Main.resources
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\PontaNguyen\Desktop\VB code\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
